@@ -1,5 +1,6 @@
-.logo{
-  +size(50px)
-  float: left
-  margin: 10px 0 0 30px
+header{
+  .logo
+    +size(50px)
+    float: left
+    margin: 10px 0 0 30px
 }
