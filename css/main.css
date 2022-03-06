@@ -1,7 +1,7 @@
-header{
+header
   background: #ccc
   
   .logo
     +size(50px)
     background: #999
-}
+
