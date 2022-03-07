@@ -1,17 +1,18 @@
-header
-  background: #ccc
-  
-  .logo
-    +size(50px)
-    background: #999
+header{
+  background: #ccc;
+}
+.logo{
+    +size(50px);
+    background: #999;
+}    
     
-    
-  h1
+h1{
     font:
-      size: 72px
-      weight: 700
-    color: white
-    text-transform: uppercase
-    padding-top: 50px
+      size: 72px;
+      weight: 700;
+    color: white;
+    text-transform: uppercase;
+    padding-top: 50px;
+}
     
 
