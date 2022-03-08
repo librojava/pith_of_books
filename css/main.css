@@ -1,17 +1,13 @@
-head{
-  .all{
+.all{
     background: #ccc;
   }
-}
 
-.container{
-  nav{
-    float: right;
-  }
-  
-  h1{
-    color: white;
-    text-transform: uppercase;
-    text-align: center;
-    }
+nav{
+  float: right;
 }
+  
+h1{
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  }
