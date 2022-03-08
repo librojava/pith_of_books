@@ -1,5 +1,7 @@
-.all{
-  background: #ccc;
+head{
+  .all{
+    background: #ccc;
+  }
 }
 
 body{
@@ -11,10 +13,9 @@ body{
       text-transform: uppercase;
       text-align: center;
   }
-}
-
   
-nav{
-  float: right;
+  nav{
+    float: right;
+    }
 }
 
