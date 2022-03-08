@@ -1,11 +1,11 @@
+body{
+  background-image: url('../img/background.jpg')
+}
+
 nav{
   float: right;
 }
 
 h1{
   text-align: center;
-}
-
-body{
-  background-image: url('../img/background.jpg')
 }
