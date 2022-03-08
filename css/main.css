@@ -7,8 +7,7 @@
     text-transform: uppercase;
     text-align: center;
   }
-
-  nav{
-    float: right;
-  }
 }
+nav{
+  float: right;
+  }
