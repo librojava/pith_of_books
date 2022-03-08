@@ -1,15 +1,19 @@
 .all{
   background: #ccc;
-}  
-    
-h1{
-    font:
-      size: 72px;
-      weight: 700;
-    color: white;
-    text-transform: uppercase;
-    text-align: center;
 }
+
+body{
+  h1{
+      font:
+        size: 72px;
+        weight: 700;
+      color: white;
+      text-transform: uppercase;
+      text-align: center;
+  }
+}
+
+  
 nav{
   float: right;
 }
