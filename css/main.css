@@ -10,8 +10,7 @@ body{
   background-image: url('../img/background.jpg')
 }
 
-.articles
-{
+.articles{
   display: flex;
   flex-wrap: wrap;
   max-width: 960px;
