@@ -9,8 +9,6 @@
   }
 }
 
-nav{
-  .section{
-    float: right;
-  }
+.section{
+  float: right;
 }
