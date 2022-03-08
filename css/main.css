@@ -5,3 +5,16 @@ nav{
 h1{
   text-align: center;
 }
+
+body{
+  background-image: url('../img/background')
+}
+
+.articles
+{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 960px;
+  margin: auto;
+}
+
