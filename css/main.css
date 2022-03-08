@@ -9,11 +9,3 @@ h1{
 body{
   background-image: url('../img/background.jpg')
 }
-
-.articles{
-  display: flex;
-  flex-wrap: wrap;
-  max-width: 960px;
-  margin: auto;
-}
-
