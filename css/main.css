@@ -5,17 +5,14 @@ head{
 }
 
 body{
-  h1{
-      font:
-        size: 72px;
-        weight: 700;
-      color: white;
-      text-transform: uppercase;
-      text-align: center;
-  }
-  
   nav{
     float: right;
     }
+  
+  h1{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+  }
 }
 
