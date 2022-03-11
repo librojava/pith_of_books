@@ -1,15 +1,17 @@
 ---
+layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-  <head class = "all">
-    <link rel="stylesheet" href="css/main.css"/>
-  </head>
-  
-  <body class = "articles">
-    
-    {% include header.html %}
- 
-  </body>
-</html>
+<div class = "articles">
+  <span class = "article-node">
+    <a href = "{{site.baseurl}}/books_2021.html" class = "article-left">
+      <img src = "img/2021.jpeg">
+    </a>
+  </span>
+
+  <span class = "article-node">
+    <a href = "{{site.baseurl}}/books_2022.html" class = "article-right">
+      <img src = "img/2022.jpeg">
+    </a>
+  </span>
+</div>
