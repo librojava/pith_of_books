@@ -1,0 +1,14 @@
+---
+ layout: default
+---
+
+<div class = "articles">
+  {% for article in site.categories.algorithm %}
+  <div class = "article-node">
+    <a href = "{{site.baseurl}}{{article.url}}">
+      <img src= "{{site.baseurl}}{{article.img}}">
+    </a>
+  </div>
+  {% endfor %}
+
+</div>
