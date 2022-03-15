@@ -59,16 +59,9 @@ h1{
 .articles{
   margin: auto;
   width: 100%;
-}
-
-.article-left{
-  float: left;
-  margin: 95px 0 0 50px;
-}
-
-.article-right{
-  float: right;
-  margin: 95px 50px 0 0;
+  padding-top: 180px;
+  font-family: 'Algerya Sans', cursive;
+  font-style: italic;
 }
 
 .foot{
